@@ -35,7 +35,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <center>
 <font size = "10">
-https://github.com/happyrabbit/ICSA2018
+https://github.com/happyrabbit/DataScienceWorkshop2018
 </font>
 </center>
 
@@ -59,9 +59,32 @@ Here is a list of definitions for a “data scientist”:
 
 # Types of Questions
 
-<center>
-![](http://scientistcafe.com/book/Figure/DataScienceQuestion.png){height=55%}
-</center>
+- Comparison: 
+    - Are males more inclined to buy our products than females?
+    - Are there any differences in customer satisfaction in different business districts?
+    - Do soybean carrying a particular gene have higher oil content?
+
+- Description:
+    - Is the distribution of annual income normal?
+    - Are there outliers?
+    - What are the means of different customer segments?
+
+- Clustering:
+    - Which customers have similar product preference? 
+    - Which printer performs similar pattern to the broken ones?
+    - How many different themes are there in the corpus?
+
+# Types of Questions
+
+- Classification:
+    - Who is more likely to buy our product?
+    -  Is the borrower going to pay back?
+    -  Is it a spam?
+
+- Regression:
+    - What will be the temperature tomorrow?
+    - What is the projected net income for the next season?
+    - How much inventory should we have? 
 
 
 # Types of Learning
