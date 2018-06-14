@@ -39,6 +39,19 @@ https://github.com/happyrabbit/DataScienceWorkshop2018
 </font>
 </center>
 
+<p>
+
+<center>
+<font size = "10">
+User Name: isca 
+<br>
+<br>
+Password: 2018
+</ul>
+</font>
+</center>
+
+
 
 # What is data science?
 
