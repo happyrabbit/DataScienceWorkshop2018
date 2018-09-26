@@ -54,3 +54,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2961012104553482/3241206203474646/1806228006848429/latest.html
 
 5. Data wrangling code: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2961012104553482/3241206203474687/1806228006848429/latest.html 
+
+6. Most of the deep learning examples are based on this textbook: Deep Learning Using R, François Chollet with J. J. Allaire, https://www.manning.com/books/deep-learning-with-r
+
+7. Most of the big data platform examples are based on sparklyr:  http://spark.rstudio.com/
