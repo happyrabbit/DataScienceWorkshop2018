@@ -58,3 +58,5 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 6. Most of the deep learning examples are based on this textbook: Deep Learning Using R, François Chollet with J. J. Allaire, https://www.manning.com/books/deep-learning-with-r
 
 7. Most of the big data platform examples are based on sparklyr:  http://spark.rstudio.com/
+
+8. Awesome Data Science Materials: https://github.com/happyrabbit/Awesome-Data-Science-Materials
