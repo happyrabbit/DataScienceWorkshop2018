@@ -22,24 +22,26 @@ Outline/Description: With recent big data revolution, enterprises ranging from F
 
 10. Soft Skills and Data Science Project Cycle. In this section, we will introduce the needed soft skills that are essential in data science projects at enterprise environments. We will talk about basic project management skills with agile concepts and how to effectively communicate with business partners to define and solve data science problems. We will illustrate how to lead with confidence given the strong technical background that statisticians have.
 
-11. Build a static personal website using SSG+Netlify. In this section, we will introduce how to quickly build your personal-professional webpage for future career advancement opportunities.  
+11. Analytical dashboard and report. In this section, we will introduce how to build reproducible dashboard and report using rmarkdown and deploy it.
 
 # Schedule
 
 | Topic | Time |
 | :---: | :---: |
-| Introduction |  8:00 - 8:20 |
-| Deep Learning Lecture | 8:20 - 10:20 |
-| Break | 10:20 - 10:40 |
-| Databricks account setup | 10:40 - 11:00 |
-| Deep Learning Hands on Session | 11:00 - 12:00 |
-| Lunch break | 12:00 - 13:30 |
+| Introduction |  8:30 - 8:50 |
+| Deep Learning Lecture | 8:50 - 10:00 |
+| Break | 10:00 - 10:15 |
+| Databricks account setup | 10:15 - 10:30 |
+| Deep Learning Lecture | 10:30 - 11:30 |
+| Deep Learning Hands on Session | 11:30 - 12:00 |
+| Lunch break @ Gallery A-B | 12:00 - 13:00 |
+| Deep Learning Hands on Session | 13:00 - 13:30 |
 | Data Preprocessing & Wrangling | 13:30 - 14:30 |
 | Big Data Cloud Platform Lecture | 14:30 - 15:10 |
 | Break | 15:10 - 15:30 |
 | Big Data Cloud Platform Hands on | 15:30 - 16:30 |
-| Build static personal website using SSG+Netlify | 16:30 - 16:45 |
-| Soft Skill and Project Cycle | 16:45 - 17:00 |
+| Analytical dashboard and report | 16:30 - 17:00 |
+| Soft Skill and Project Cycle | 17:00 - 17:30 |
 
 Useful links:
 
