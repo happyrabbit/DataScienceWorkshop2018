@@ -11,6 +11,14 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Ways to build and deploy your report
+
+- Set up a Github account
+- Have a template
+- Link your repo to Netlify: New site from Git
+- Deploy
+- General -> Change site name 
+
 # Ways to build and deploy your own website
 
 1. One-click solution: https://templates.netlify.com
