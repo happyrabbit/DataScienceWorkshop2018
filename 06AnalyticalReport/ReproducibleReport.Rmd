@@ -1,5 +1,5 @@
 ---
-title: "Build and Deploy Your Own Website"
+title: "Build and Deploy Data Science Website"
 author: '[Hui Lin](http://scientistcafe.com) </br> </br> ![](http://scientistcafe.com/images/netlifylogo.png){width=15%}'
 date: "`r Sys.Date()`"
 output: 
@@ -11,13 +11,13 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Ways to build and deploy your report
+# Build and deploy your analytical report
 
 - Set up a Github account
-- Have a template
-- Link your repo to Netlify: New site from Git
-- Deploy
-- General -> Change site name 
+- Go to: https://nerdyrabbit.netlify.com
+- `Deploy to Netlify`
+- Customize the website name
+- If you don't have Github/Gitlab......https://app.netlify.com/drop
 
 # Ways to build and deploy your own website
 
@@ -31,4 +31,3 @@ knitr::opts_chunk$set(echo = FALSE)
         - Create a R project and point the path to the folder
         - run `blogdown::new_site()`
     - https://github.com/happyrabbit/scientistcafe.com
-    - If you don't have Github/Gitlab......No problem, just drag `public` folder to Netlify!!

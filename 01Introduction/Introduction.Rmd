@@ -43,9 +43,13 @@ https://github.com/happyrabbit/DataScienceWorkshop2018
 
 
 
-# What is data science?
+# The term no one really defined
+
+> Data science is the discipline of making data useful.  Ok...so what is it? 
+
 
 <img src="images/awesome-me.gif" alt="HTML5 Icon" style="width:600px;height:400px;">
+
 
 # What is data science?
 
