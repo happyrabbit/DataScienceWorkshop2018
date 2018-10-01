@@ -49,6 +49,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](images/styletransfer.PNG){width=60%}
 
 
+# Is it math?
+
+![](images/dontknowmath.PNG){width=60%}
+
 # Image Data
 
 ![](images/image_data.png){width=80%}
@@ -156,6 +160,10 @@ If layer $l$ is a convolution layer:
 
 ![](images/dropout.png){width=90%}
 
+# Is it overfitting?
+
+![](images/overfitting.png){width=70%}
+
 # Using Keras To Build CNN
 
 Typical `keras` workflow:
@@ -222,7 +230,7 @@ cnn_pred <- cnn_model %>%
 ![](images/cnn_size.png){width=90%}
 
 
-## Other Notes
+# Other Notes
 
 
 - Two options: Cloud and GPU (NVIDIA)

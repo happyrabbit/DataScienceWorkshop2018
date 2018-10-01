@@ -18,18 +18,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Topic | Time |
 | :---: | :---: |
-| Introduction |  8:00 - 8:20 |
-| Deep Learning Lecture | 8:20 - 10:20 |
-| Break | 10:20 - 10:40 |
-| Databricks account setup | 10:40 - 11:00 |
-| Deep Learning Hands on Session | 11:00 - 12:00 |
-| Lunch break | 12:00 - 13:30 |
+| Introduction |  8:30 - 8:50 |
+| Deep Learning Lecture | 8:50 - 10:00 |
+| Break | 10:00 - 10:15 |
+| Databricks account setup | 10:15 - 10:30 |
+| Deep Learning Lecture | 10:30 - 11:30 |
+| Deep Learning Hands on Session | 11:30 - 12:00 |
+| Lunch break @ Gallery A-B | 12:00 - 13:00 |
+| Deep Learning Hands on Session | 13:00 - 13:30 |
 | Data Preprocessing & Wrangling | 13:30 - 14:30 |
 | Big Data Cloud Platform Lecture | 14:30 - 15:10 |
 | Break | 15:10 - 15:30 |
 | Big Data Cloud Platform Hands on | 15:30 - 16:30 |
-| Build static personal website using SSG+Netlify | 16:30 - 16:45 |
-| Soft Skill and Project Cycle | 16:45 - 17:00 |
+| Analytical dashboard and report | 16:30 - 17:00 |
+| Soft Skill and Project Cycle | 17:00 - 17:30 |
 
 # Slides 
 
@@ -165,6 +167,10 @@ Here is a list of definitions for a “data scientist”:
 
 # Some links
 
+- [Industry recommendations for academic data science programs](https://github.com/brohrer/academic_advisory)
+
+- [Awesome-Data-Science-Materials](https://github.com/happyrabbit/Awesome-Data-Science-Materials)
+
 - Online books:
     - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
     - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
@@ -173,7 +179,5 @@ Here is a list of definitions for a “data scientist”:
 - Hard copy books:
     - [Applied Predictive Modeling](http://appliedpredictivemodeling.com)
     - [R for Marketing Research and Analytics](http://r-marketing.r-forge.r-project.org)
- 
-- [Awesome-Data-Science-Materials](https://github.com/happyrabbit/Awesome-Data-Science-Materials)
 
 - [Big Data with R](https://www.dropbox.com/sh/8t4k8lgk0su3gjb/AAD4GwWUhUj7bdkmw0j7FPWNa/bigdataclass2018?dl=0)
