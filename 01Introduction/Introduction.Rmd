@@ -50,10 +50,11 @@ https://github.com/happyrabbit/DataScienceWorkshop2018
 
 <img src="images/awesome-me.gif" alt="HTML5 Icon" style="width:600px;height:400px;">
 
-
 # What is data science?
 
-> “This coupling of scientific discovery and practice involves the collection, management, processing, analysis, visualization, and interpretation of vast amounts of heterogeneous data associated with a diverse array of scientific, translational, and interdisciplinary applications.”
+![](images/datasciencerole.png){width=100%}
+
+Credit to: [Why businesses fail at machine learning](https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db)
 
 # What is a data scientist?
 
