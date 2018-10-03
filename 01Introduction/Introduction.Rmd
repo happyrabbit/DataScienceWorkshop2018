@@ -45,16 +45,13 @@ https://github.com/happyrabbit/DataScienceWorkshop2018
 
 # The term no one really defined
 
+- What is data science?
+
 > Data science is the discipline of making data useful.  Ok...so what is it? 
 
 
 <img src="images/awesome-me.gif" alt="HTML5 Icon" style="width:600px;height:400px;">
 
-# What is data science?
-
-![](images/datasciencerole.png){width=100%}
-
-Credit to: [Why businesses fail at machine learning](https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db)
 
 # What is a data scientist?
 
@@ -64,6 +61,25 @@ Here is a list of definitions for a “data scientist”:
 - “A data scientist is someone who is better at statistics than any software engineer and better - at software engineering than any statistician.”
 - “A data scientist is a statistician who lives in San Francisco.”
 - “Data Science is statistics on a Mac.”
+
+# What is data science?
+
+![](images/datasciencerole.png){width=100%}
+
+Credit to: [Why businesses fail at machine learning](https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db)
+
+# Different roles in data science
+
+- Researchers: build cutting-edge appliances
+- Decision-makers and product managers:  figure out what’s worth cooking / what the objectives are
+- Domain experts and social scientists: understand the suppliers and the customers 
+- Data engineer and analysts: process ingredients at scale 
+- Applied ML engineers: try many different ingredient-appliance combinations quickly to generate potential recipes
+- Statisticians: check that the quality of the recipe is good enough to serve 
+- Software engineers: turn a potential recipe into millions of dishes served efficiently 
+- Project/program managers: keep the interdisciplinary team on track
+- Reliability engineers: ensure that your dishes stay top notch even if the delivery truck brings you a ton of potatoes instead of the rice you ordered 
+
 
 # Types of Questions
 
