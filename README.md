@@ -62,3 +62,5 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 7. Most of the big data platform examples are based on sparklyr:  http://spark.rstudio.com/
 
 8. Awesome Data Science Materials: https://github.com/happyrabbit/Awesome-Data-Science-Materials
+
+9. Analytical site template: https://nerdyrabbit.netlify.com
